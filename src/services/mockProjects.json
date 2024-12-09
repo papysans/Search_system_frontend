@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 2,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 3,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 4,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 5,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 6,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 7,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 8,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 9,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 10,
+    "title": "基于大数据的农作物病虫害预警系统",
+    "projectType": "软件开发类",
+    "source": "农业部项目",
+    "supervisor": {
+      "name": "徐教授",
+      "title": "研究员"
+    },
+    "studentName": "张磊",
+    "grade": "2024届",
+    "major": "农业信息化",
+    "className": "农信1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 11,
+    "title": "基于深度学习的图像识别系统设计与实现",
+    "projectType": "工程设计类",
+    "source": "企业合作项目",
+    "supervisor": {
+      "name": "张教授",
+      "title": "副教授"
+    },
+    "studentName": "李明",
+    "grade": "2024届",
+    "major": "计算机科学与技术",
+    "className": "计科2班",
+    "practiceCompletion": true
+  },
+  {
+    "id": 12,
+    "title": "智能家居物联网平台开发",
+    "projectType": "软件开发类",
+    "source": "实验室项目",
+    "supervisor": {
+      "name": "王教授",
+      "title": "教授"
+    },
+    "studentName": "张华",
+    "grade": "2024届",
+    "major": "物联网工程",
+    "className": "物联网1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 13,
+    "title": "区块链技术在供应链金融中的应用研究",
+    "projectType": "研究论文类",
+    "source": "导师课题",
+    "supervisor": {
+      "name": "刘教授",
+      "title": "教授"
+    },
+    "studentName": "王芳",
+    "grade": "2024届",
+    "major": "金融工程",
+    "className": "金融2班",
+    "practiceCompletion": true
+  },
+  {
+    "id": 14,
+    "title": "新能源汽车充电站选址优化算法研究",
+    "projectType": "算法研究类",
+    "source": "横向项目",
+    "supervisor": {
+      "name": "陈教授",
+      "title": "副教授"
+    },
+    "studentName": "赵强",
+    "grade": "2024届",
+    "major": "电气工程",
+    "className": "电气1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 15,
+    "title": "基于机器学习的网络安全威胁检测系统",
+    "projectType": "工程设计类",
+    "source": "国家项目",
+    "supervisor": {
+      "name": "林教授",
+      "title": "教授"
+    },
+    "studentName": "周杰",
+    "grade": "2024届",
+    "major": "网络工程",
+    "className": "网络2班",
+    "practiceCompletion": true
+  },
+  {
+    "id": 16,
+    "title": "智慧城市交通流量预测与优化",
+    "projectType": "算法研究类",
+    "source": "省级项目",
+    "supervisor": {
+      "name": "杨教授",
+      "title": "特聘教授"
+    },
+    "studentName": "吴婷",
+    "grade": "2023届",
+    "major": "交通工程",
+    "className": "交通3班",
+    "practiceCompletion": true
+  },
+  {
+    "id": 17,
+    "title": "新型光伏材料性能测试平台开发",
+    "projectType": "实验研究类",
+    "source": "重点实验室项目",
+    "supervisor": {
+      "name": "郑教授",
+      "title": "研究员"
+    },
+    "studentName": "孙明",
+    "grade": "2023届",
+    "major": "材料科学",
+    "className": "材料1班",
+    "practiceCompletion": false
+  },
+  {
+    "id": 18,
+    "title": "新型光伏材料性能测试平台开发",
+    "projectType": "实验研究类",
+    "source": "重点实验室项目",
+    "supervisor": {
+      "name": "郑教授",
+      "title": "研究员"
+    },
+    "studentName": "孙明",
+    "grade": "2023届",
+    "major": "材料科学",
+    "className": "材料1班",
+    "practiceCompletion": false
+  }
+]
